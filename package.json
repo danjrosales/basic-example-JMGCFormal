@@ -1,0 +1,24 @@
+{
+  "name": "autograded_css+html",
+  "version": "1.0.0",
+  "description": "A linter + html-validator example for autograding",
+  "main": "index.js",
+  "dependencies": {
+    "stylelint": "^13.6.1",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danjrosales/autograded_css-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danjrosales/autograded_css-html/issues"
+  },
+  "homepage": "https://github.com/danjrosales/autograded_css-html#readme"
+}
