@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "HTML validator",
+      "setup": "npm install",
+      "run": "npm exec html-validate index.html",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    }
+  ]
+}
